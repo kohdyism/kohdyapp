@@ -74,7 +74,7 @@ const AdminNav = ({ socket }) => {
             <nav className='navbar'>
                 <div className='nav'>
                     <div className='logonname'>
-                        <img src='https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Defence_Science_%26_Technology_Agency_logo.svg/640px-Defence_Science_%26_Technology_Agency_logo.svg.png' className='logo' alt='logo' />
+                        <img src='https://img.lovepik.com/free-png/20210928/lovepik-agricultural-logo-png-image_401740052_wh1200.png' className='logo' alt='logo' />
                         <h4>Admin Page</h4>
                     </div>
                     <button className="hamburger" onClick={toggleMenu} aria-label="Toggle navigation">☰</button>
