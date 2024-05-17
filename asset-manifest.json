@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/auapp/static/css/main.2d2543c9.css",
+    "main.js": "/auapp/static/js/main.e9c6aeb9.js",
+    "static/js/453.419a5d54.chunk.js": "/auapp/static/js/453.419a5d54.chunk.js",
+    "static/media/Login.js.jpg": "/auapp/static/media/Login.js.9d96f942215577c9a5c5.jpg",
+    "index.html": "/auapp/index.html",
+    "main.2d2543c9.css.map": "/auapp/static/css/main.2d2543c9.css.map",
+    "main.e9c6aeb9.js.map": "/auapp/static/js/main.e9c6aeb9.js.map",
+    "453.419a5d54.chunk.js.map": "/auapp/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d2543c9.css",
+    "static/js/main.e9c6aeb9.js"
+  ]
+}
