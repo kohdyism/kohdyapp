@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/auapp/static/css/main.2d2543c9.css",
-    "main.js": "/auapp/static/js/main.e9c6aeb9.js",
-    "static/js/453.419a5d54.chunk.js": "/auapp/static/js/453.419a5d54.chunk.js",
-    "static/media/Login.js.jpg": "/auapp/static/media/Login.js.9d96f942215577c9a5c5.jpg",
-    "index.html": "/auapp/index.html",
-    "main.2d2543c9.css.map": "/auapp/static/css/main.2d2543c9.css.map",
-    "main.e9c6aeb9.js.map": "/auapp/static/js/main.e9c6aeb9.js.map",
-    "453.419a5d54.chunk.js.map": "/auapp/static/js/453.419a5d54.chunk.js.map"
+    "main.css": "/static/css/main.b091eeb1.css",
+    "main.js": "/static/js/main.9947919d.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/Login.js.jpg": "/static/media/Login.js.9d96f942215577c9a5c5.jpg",
+    "index.html": "/index.html",
+    "main.b091eeb1.css.map": "/static/css/main.b091eeb1.css.map",
+    "main.9947919d.js.map": "/static/js/main.9947919d.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d2543c9.css",
-    "static/js/main.e9c6aeb9.js"
+    "static/css/main.b091eeb1.css",
+    "static/js/main.9947919d.js"
   ]
 }
